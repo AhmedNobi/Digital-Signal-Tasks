@@ -1,2 +1,2 @@
-# -Digital-Signal-Tasks
+# Digital-Signal-Tasks
 Digital signal tasks
