@@ -1,2 +1,3 @@
 # Digital-Signal-Tasks
-Digital signal tasks
+Digital signal tasks.
+
